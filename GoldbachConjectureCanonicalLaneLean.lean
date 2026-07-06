@@ -1,0 +1,7 @@
+-- This module is the root of the GoldbachConjectureCanonicalLaneLean Lean proof package.
+import GoldbachConjectureCanonicalLaneLean.Basic
+import GoldbachConjectureCanonicalLaneLean.SourcePackage
+import GoldbachConjectureCanonicalLaneLean.SourceDependencies
+import GoldbachConjectureCanonicalLaneLean.Formalization
+import GoldbachConjectureCanonicalLaneLean.ReviewerBridge
+import GoldbachConjectureCanonicalLaneLean.TheoremStatement
